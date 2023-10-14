@@ -1,6 +1,8 @@
 # xos
 
 Reference(in reading order):
+
+ 0. [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/3e/students.html)
  1. [Writing  a simple OS -- From scratch, Nick](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
  2. [OS from 0 to 1](https://raw.githubusercontent.com/tuhdo/os01/master/Operating_Systems_From_0_to_1.pdf)
  3. [Getting started](https://wiki.osdev.org/Getting_Started)

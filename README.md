@@ -11,3 +11,4 @@ Reference(in reading order):
  6. [Os theory](https://wiki.osdev.org/Category:OS_theory) Mas não é necessário ler tudo (?)
  7. [Bare bones](https://wiki.osdev.org/Bare_Bones)
  8. [Creating an OS](https://wiki.osdev.org/Creating_an_Operating_System)
+ 9. [OS With Rust](https://rust-osdev.com/)
